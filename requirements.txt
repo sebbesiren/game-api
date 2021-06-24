@@ -1,0 +1,7 @@
+eve
+eve-swagger==0.0.11
+flask-swagger-ui==3.25.0
+Flask
+PyJWT
+requests
+toolz
